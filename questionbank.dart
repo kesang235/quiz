@@ -26,7 +26,6 @@ final List<Bank> part= [
   question:'dummy',
   options:['a','b','c','d'],
   answer: 3,
-  category: 'Malware',
   ),
   
 ];
